@@ -1,3 +1,9 @@
+# Important !!!
+
+This is an old project from naver, while I dont know why it was lost in naver's repo, maybe naver changed its name. So this is a backup.
+
+这是naver项目的备份,应该是对应1.6.0 release吧.仅供参考.
+
 # Pinpoint Profiler Plugin Sample
 
 You can extend Pinoint's profiling ability by writing a Pinpoint profiler plugin. This sample project shows how to write it. It consists of 3 modules:
